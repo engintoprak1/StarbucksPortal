@@ -1,0 +1,5 @@
+C:\Users\ENGIN\source\repos\StarbucksPortal\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\ENGIN\source\repos\StarbucksPortal\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGIN\source\repos\StarbucksPortal\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\ENGIN\source\repos\StarbucksPortal\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\ENGIN\source\repos\StarbucksPortal\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache

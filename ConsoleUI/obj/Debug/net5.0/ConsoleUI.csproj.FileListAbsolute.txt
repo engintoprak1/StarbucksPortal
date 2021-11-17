@@ -1,0 +1,5 @@
+C:\Users\ENGIN\source\repos\StarbucksPortal\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\ENGIN\source\repos\StarbucksPortal\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGIN\source\repos\StarbucksPortal\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ENGIN\source\repos\StarbucksPortal\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\ENGIN\source\repos\StarbucksPortal\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
