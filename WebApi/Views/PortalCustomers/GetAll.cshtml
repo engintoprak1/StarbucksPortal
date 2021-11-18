@@ -1,26 +1,29 @@
 ﻿@using Entities.Concrete
 @model List<Customer>
 
-    @foreach(var item in Model)
-{
-     
-     <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">First Name</th>
-      <th scope="col">Last Nane</th>
-      <th scope="col">Date Of Birth</th>
-      <th scope="col">Nationality Identity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>@item.FirstName</td>
-      <td>@item.LastName</td>
-      <td>@item.DateOfBirth</td>
-      <td>@item.NationalityId</td>
-    </tr>
-  </tbody>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">First Name</th>
+            <th scope="col">Last Nane</th>
+            <th scope="col">Date Of Birth</th>
+            <th scope="col">Nationality Identity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.DateOfBirth</td>
+                <td>@item.NationalityId</td>
+            </tr>
+        }
+
+    </tbody>
 </table>
 
-}

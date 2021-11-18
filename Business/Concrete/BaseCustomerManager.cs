@@ -23,9 +23,9 @@ namespace Business.Concrete
             _customerDal.Add(customer);
         }
 
-        public List<Customer> GetAll()
+        public List<Customer> GetAll(string companyName)
         {
-            return _customerDal.GetAll();
+            return _customerDal.GetAll(c=>c.Company == companyName);
         }
     }
 }

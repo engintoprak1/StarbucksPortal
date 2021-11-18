@@ -29,7 +29,7 @@ namespace WebApi.Controllers
         public IActionResult GetAll()
         {
             
-            var result = customerService.GetAll();
+            var result = customerService.GetAll("starbucks");
             return View(result);
         }
     }

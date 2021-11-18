@@ -19,5 +19,6 @@ namespace Business.Concrete
         {
             base.Add(customer);
         }
+
     }
 }

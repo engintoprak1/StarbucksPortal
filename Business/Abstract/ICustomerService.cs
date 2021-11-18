@@ -10,6 +10,6 @@ namespace Business.Abstract
     public interface ICustomerService
     {
         void Add(Customer customer);
-        List<Customer> GetAll();
+        List<Customer> GetAll(string companyName);
     }
 }

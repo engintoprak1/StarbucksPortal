@@ -28,7 +28,7 @@ namespace WebApi.Controllers
         [HttpGet("[controller]/getall")]
         public IActionResult GetAll()
         {
-            var result = customerService.GetAll();
+            var result = customerService.GetAll("portal");
             return View(result);
         }
     }

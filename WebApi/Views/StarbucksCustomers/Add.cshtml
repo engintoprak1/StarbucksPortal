@@ -4,6 +4,7 @@
 
 <form method="post" asp-action="Add" >
     <div class="mb-3">
+  <input type="hidden" asp-for="Company" value="starbucks" class="form-control" >
   <label for="FirstName" class="form-label">First Name</label>
   <input type="text" asp-for="FirstName" class="form-control" >
   <label for="LastName" class="form-label">Last Name</label>
